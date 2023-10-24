@@ -14,3 +14,11 @@ Customer segmentation and sales forecasting from retail customer data
 10. Kmeans clustering
 11. Cluster interpretation
 12. Customer Lifetime Value calculation
+
+# Steps for sales forecasting:
+1. Choosing the customer segment to forecast sales for
+2. Getting monthly sales
+3. Finding the optimal look back period
+4. Training the ensemble regression models
+5. Model testing and evaluation
+6. Prediction visualization
